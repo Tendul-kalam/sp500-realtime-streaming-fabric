@@ -45,10 +45,10 @@ stock_prices
 ```
 
 ## Dashboard Preview
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Pipeline Flow
-![Pipeline](screenshots/eventstream.png)
+![Pipeline](Cmd_Ingestion.png)
 
 ## How to Run
 ```bash
