@@ -1,4 +1,4 @@
-# S&P 500 Real-Time Stock Market Streaming Pipeline 📈
+# S&P 500 Real-Time Stock Market Streaming Pipeline
 
 ## Overview
 Built an end-to-end real-time streaming pipeline that ingests live S&P 500 
