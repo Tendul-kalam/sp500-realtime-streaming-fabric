@@ -45,7 +45,7 @@ stock_prices
 ```
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Pipeline Flow
 ![Pipeline](screenshots/eventstream.png)
