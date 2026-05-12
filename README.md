@@ -49,6 +49,8 @@ stock_prices
 
 ## Pipeline Flow
 ![Pipeline](Cmd_Ingestion.png)
+## Stock Prices Table
+![Stock Prices](stock_prices%20table.png)
 
 ## How to Run
 ```bash
